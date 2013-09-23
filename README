@@ -1,16 +1,6 @@
 Collectd-Plugins-Common
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
-
-A README file is required for CPAN modules since CPAN extracts the README
-file from a module distribution so that people browsing the archive
-can use it to get an idea of the module's uses. It is usually a good idea
-to provide version information here so that people can decide whether
-fixes for the module are worth downloading.
-
+Some convenient functions for writing perl plugins for collectd
 
 INSTALLATION
 
@@ -28,20 +18,9 @@ perldoc command.
 
     perldoc Collectd::Plugins::Common
 
-You can also look for information at:
+You can also look for information and submit pull requests on github:
 
-    RT, CPAN's request tracker (report bugs here)
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Collectd-Plugins-Common
-
-    AnnoCPAN, Annotated CPAN documentation
-        http://annocpan.org/dist/Collectd-Plugins-Common
-
-    CPAN Ratings
-        http://cpanratings.perl.org/d/Collectd-Plugins-Common
-
-    Search CPAN
-        http://search.cpan.org/dist/Collectd-Plugins-Common/
-
+https://github.com/faxm0dem/Collectd-Plugins-Common
 
 LICENSE AND COPYRIGHT
 
