@@ -47,8 +47,8 @@ rm -rf %{buildroot}
 %doc Changes README 
 %{perl_vendorlib}/*
 %{_mandir}/man3/*.3*
-%{_mandir}/man1/*.1*
-%{_bindir}/*
+###%{_mandir}/man1/*.1*
+###%{_bindir}/*
 
 # output by: date +"* \%a \%b \%d \%Y $USER"
 %changelog
