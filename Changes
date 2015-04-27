@@ -1,5 +1,10 @@
-Revision history for Collectd-Plugins-Common
+# Revision history for Collectd-Plugins-Common
 
-0.1001  somewhere in 2013
-        First version, released on an unsuspecting world.
+## 0.1002  Mon Apr 27 13:39:39 CEST 2015
+
+* remove autoinstall as Collectd isn't available on CPAN
+
+## 0.1001  somewhere in 2013
+
+* First version, released on an unsuspecting world.
 

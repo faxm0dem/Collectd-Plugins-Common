@@ -16,7 +16,7 @@ Collectd::Plugins::Common - Common functions to be used by plugins
 
 =cut
 
-our $VERSION = '0.1001';
+our $VERSION = '0.1002';
 
 =head1 SYNOPSIS
 

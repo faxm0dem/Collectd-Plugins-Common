@@ -1,5 +1,5 @@
 Name:       perl-Collectd-Plugins-Common
-Version:    0.1001
+Version:    0.1002
 Release:    0%{?dist}
 Epoch:      0
 # license auto-determination failed
